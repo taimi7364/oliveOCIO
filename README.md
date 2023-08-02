@@ -21,3 +21,8 @@ Please consider supporting Olive:
 ## Compiling from Source:
 
 Compiling instructions for Windows, macOS, and Linux can be found [on the main site](https://olivevideoeditor.org/compile.php).
+
+
+
+
+I changed to old color mode so OCIO configs work.
